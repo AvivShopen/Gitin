@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\User.Infrastructure\User.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\lib\Auth.Common\Auth.Common.csproj" />
   </ItemGroup>
 
   <ItemGroup>

@@ -1,0 +1,12 @@
+C:\Users\avivs\Projects\Gitin\backend\lib\Auth.Common\obj\Debug\net6.0\Auth.Common.csproj.AssemblyReference.cache
+C:\Users\avivs\Projects\Gitin\backend\lib\Auth.Common\obj\Debug\net6.0\Auth.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avivs\Projects\Gitin\backend\lib\Auth.Common\obj\Debug\net6.0\Auth.Common.AssemblyInfoInputs.cache
+C:\Users\avivs\Projects\Gitin\backend\lib\Auth.Common\obj\Debug\net6.0\Auth.Common.AssemblyInfo.cs
+C:\Users\avivs\Projects\Gitin\backend\lib\Auth.Common\obj\Debug\net6.0\Auth.Common.csproj.CoreCompileInputs.cache
+C:\Users\avivs\Projects\Gitin\backend\lib\Auth.Common\bin\Debug\net6.0\Auth.Common.deps.json
+C:\Users\avivs\Projects\Gitin\backend\lib\Auth.Common\bin\Debug\net6.0\Auth.Common.dll
+C:\Users\avivs\Projects\Gitin\backend\lib\Auth.Common\bin\Debug\net6.0\Auth.Common.pdb
+C:\Users\avivs\Projects\Gitin\backend\lib\Auth.Common\obj\Debug\net6.0\Auth.Common.dll
+C:\Users\avivs\Projects\Gitin\backend\lib\Auth.Common\obj\Debug\net6.0\refint\Auth.Common.dll
+C:\Users\avivs\Projects\Gitin\backend\lib\Auth.Common\obj\Debug\net6.0\Auth.Common.pdb
+C:\Users\avivs\Projects\Gitin\backend\lib\Auth.Common\obj\Debug\net6.0\ref\Auth.Common.dll

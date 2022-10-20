@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U/C6Ddst5pHxXrcWxm5jNR0e+fir2CBvp0kysCfavqIpGEEBsllagM+hZBsLMjLmYecgunhJ3X3cJgjtvNOWtw==",
+  "dgSpecHash": "1vCieHZWK0PqE5c1gv7i5IrqgEqcwpeHJ0X2CYYwws9Gm6/reEIKeD4r6YRXzs8msjkU6YmOEw+dlaiIT03xYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\avivs\\Projects\\Gitin\\backend\\Auth.Infrastructure\\Auth.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\avivs\\Projects\\Gitin\\backend\\lib\\Auth.Common\\Auth.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
