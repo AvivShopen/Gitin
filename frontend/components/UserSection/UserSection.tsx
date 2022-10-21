@@ -13,11 +13,11 @@ const UserSection = () => {
       <Stack direction="horizontal" className="items-center">
         <FlexboxItem grow={2}>
           <div className={`${navItemStyles.navItem} flex justify-evenly`}>
-            <Button className="p-2 rounded-xl bg-primary">
+            <Button className="p-2 rounded-xl bg-secondary">
               <IconlyIcon name="Notification" />
               <Badge className="bg-blue-600">3</Badge>
             </Button>
-            <Button className="p-2 rounded-xl bg-primary">
+            <Button className="p-2 rounded-xl bg-secondary">
               <IconlyIcon name="EditSquare" />
               <Badge className="bg-blue-600">2</Badge>
             </Button>

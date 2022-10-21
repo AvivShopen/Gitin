@@ -23,6 +23,9 @@ module.exports = {
         primary: '#222233',
         secondary: '#333344',
         accent: '#555566',
+        'accent-dark': '#444455',
+        'accent-light': '#666688',
+        'accent-lighter': '#7777AA',
       },
       spacing: {
         128: '32rem',
