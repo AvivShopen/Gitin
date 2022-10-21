@@ -1,12 +1,31 @@
 import React from 'react';
+import Button from '../Button/Button';
 import FlexboxItem from '../FlexboxItem';
+import IconlyIcon from '../Icon/IconlyIcon';
+import Stack from '../Stack/Stack';
 
 const FeedSection = () => {
   return (
     <FlexboxItem grow={2}>
-      <div className="w-[100%] h-[100%] bg-secondary text-center pt-2">
-        <span className="text-white font-bold text-2xl">Feed</span>
-      </div>
+      <Stack
+        direction="vertical"
+        className="w-[100%] h-[100%] bg-secondary items-center pt-2">
+        <Stack
+          direction="horizontal"
+          className="w-[100%] justify-center cursor-pointer">
+          <IconlyIcon name="Discovery" size="large" />
+          <span className="text-white font-bold text-2xl mx-4">Feed</span>
+        </Stack>
+        <Stack direction="horizontal" className="w-[100%] mt-6 justify-center">
+          <input
+            placeholder="Tell us what you're thinking about..."
+            className="bg-accent-light placeholder:text-gray-300 text-white font-medium rounded-l-xl w-[70%] h-12 px-4"
+          />
+          <Button className="bg-primary rounded-none rounded-r-xl aspect-square w-12 flex justify-center items-center">
+            <IconlyIcon name="Send" size="large" />
+          </Button>
+        </Stack>
+      </Stack>
     </FlexboxItem>
   );
 };

@@ -1,14 +1,15 @@
 import Head from 'next/head';
 import React from 'react';
+import { APP_NAME } from '../../utils/constants';
 
 interface Props {
   title?: string;
 }
 
-const InjectHead = ({title}: Props) => {
+const InjectHead = ({ title }: Props) => {
   return (
     <Head>
-      <title>{title ? title : 'GitIn'}</title>
+      <title>{title ? title : APP_NAME}</title>
       <meta
         name="description"
         content="Gitin - Bringing code together"
