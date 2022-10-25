@@ -9,14 +9,14 @@ const FeedSection = () => {
     <FlexboxItem grow={2}>
       <Stack
         direction="vertical"
-        className="w-[100%] h-[100%] bg-secondary items-center pt-2">
+        className="w-[100%] h-[100%] bg-secondary items-center">
         <Stack
           direction="horizontal"
-          className="w-[100%] justify-center cursor-pointer">
+          className="w-[100%] py-2 rounded-b-md justify-center cursor-pointer bg-accent-dark">
           <IconlyIcon name="Discovery" size="large" />
           <span className="text-white font-bold text-2xl mx-4">Feed</span>
         </Stack>
-        <Stack direction="horizontal" className="w-[100%] mt-6 justify-center">
+        <Stack direction="horizontal" className="w-[100%] mt-4 justify-center">
           <input
             placeholder="Tell us what you're thinking about..."
             className="bg-accent-light placeholder:text-gray-300 text-white font-medium rounded-l-xl w-[70%] h-12 px-4"
