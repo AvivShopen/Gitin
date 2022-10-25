@@ -16,6 +16,16 @@ body,
   height: 100%;
 }
 
+::-moz-selection {
+  color: white;
+  background: lightblue;
+}
+
+::selection {
+  color: white;
+  background: lightblue;
+}
+
 a {
   color: inherit;
   text-decoration: none;

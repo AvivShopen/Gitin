@@ -1,0 +1,12 @@
+C:\Users\avivs\Projects\Gitin\backend\user-service\User.Infrastructure\bin\Debug\net6.0\User.Infrastructure.deps.json
+C:\Users\avivs\Projects\Gitin\backend\user-service\User.Infrastructure\bin\Debug\net6.0\User.Infrastructure.dll
+C:\Users\avivs\Projects\Gitin\backend\user-service\User.Infrastructure\bin\Debug\net6.0\User.Infrastructure.pdb
+C:\Users\avivs\Projects\Gitin\backend\user-service\User.Infrastructure\obj\Debug\net6.0\User.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\avivs\Projects\Gitin\backend\user-service\User.Infrastructure\obj\Debug\net6.0\User.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avivs\Projects\Gitin\backend\user-service\User.Infrastructure\obj\Debug\net6.0\User.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\avivs\Projects\Gitin\backend\user-service\User.Infrastructure\obj\Debug\net6.0\User.Infrastructure.AssemblyInfo.cs
+C:\Users\avivs\Projects\Gitin\backend\user-service\User.Infrastructure\obj\Debug\net6.0\User.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\avivs\Projects\Gitin\backend\user-service\User.Infrastructure\obj\Debug\net6.0\User.Infrastructure.dll
+C:\Users\avivs\Projects\Gitin\backend\user-service\User.Infrastructure\obj\Debug\net6.0\refint\User.Infrastructure.dll
+C:\Users\avivs\Projects\Gitin\backend\user-service\User.Infrastructure\obj\Debug\net6.0\User.Infrastructure.pdb
+C:\Users\avivs\Projects\Gitin\backend\user-service\User.Infrastructure\obj\Debug\net6.0\ref\User.Infrastructure.dll

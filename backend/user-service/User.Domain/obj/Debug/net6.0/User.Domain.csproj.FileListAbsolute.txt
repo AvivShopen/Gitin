@@ -1,0 +1,17 @@
+C:\Users\avivs\Projects\Gitin\backend\user-service\User.Domain\bin\Debug\net6.0\User.Domain.deps.json
+C:\Users\avivs\Projects\Gitin\backend\user-service\User.Domain\bin\Debug\net6.0\User.Domain.dll
+C:\Users\avivs\Projects\Gitin\backend\user-service\User.Domain\bin\Debug\net6.0\User.Domain.pdb
+C:\Users\avivs\Projects\Gitin\backend\user-service\User.Domain\bin\Debug\net6.0\User.Infrastructure.dll
+C:\Users\avivs\Projects\Gitin\backend\user-service\User.Domain\bin\Debug\net6.0\User.Infrastructure.pdb
+C:\Users\avivs\Projects\Gitin\backend\user-service\User.Domain\obj\Debug\net6.0\User.Domain.csproj.AssemblyReference.cache
+C:\Users\avivs\Projects\Gitin\backend\user-service\User.Domain\obj\Debug\net6.0\User.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avivs\Projects\Gitin\backend\user-service\User.Domain\obj\Debug\net6.0\User.Domain.AssemblyInfoInputs.cache
+C:\Users\avivs\Projects\Gitin\backend\user-service\User.Domain\obj\Debug\net6.0\User.Domain.AssemblyInfo.cs
+C:\Users\avivs\Projects\Gitin\backend\user-service\User.Domain\obj\Debug\net6.0\User.Domain.csproj.CoreCompileInputs.cache
+C:\Users\avivs\Projects\Gitin\backend\user-service\User.Domain\obj\Debug\net6.0\User.Domain.csproj.CopyComplete
+C:\Users\avivs\Projects\Gitin\backend\user-service\User.Domain\obj\Debug\net6.0\User.Domain.dll
+C:\Users\avivs\Projects\Gitin\backend\user-service\User.Domain\obj\Debug\net6.0\refint\User.Domain.dll
+C:\Users\avivs\Projects\Gitin\backend\user-service\User.Domain\obj\Debug\net6.0\User.Domain.pdb
+C:\Users\avivs\Projects\Gitin\backend\user-service\User.Domain\obj\Debug\net6.0\ref\User.Domain.dll
+C:\Users\avivs\Projects\Gitin\backend\user-service\User.Domain\bin\Debug\net6.0\Auth.Common.dll
+C:\Users\avivs\Projects\Gitin\backend\user-service\User.Domain\bin\Debug\net6.0\Auth.Common.pdb
